@@ -31,10 +31,12 @@ github_username:  sumskyi
 #
 theme: minima
 # remote_theme: pages-themes/cayman@v0.2.0
-remote_theme: benbalter/retlab
+# remote_theme: benbalter/retlab
+remote_theme: ngzhio/jekyll-theme-hamilton
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-theme-hamilton
 
 domain: sumskyi.github.io
 url: https://sumskyi.github.io
