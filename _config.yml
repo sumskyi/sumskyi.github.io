@@ -30,9 +30,7 @@ github_username:  sumskyi
 # Build settings
 #
 theme: minima
-# remote_theme: pages-themes/cayman@v0.2.0
-# remote_theme: benbalter/retlab
-remote_theme: ngzhio/jekyll-theme-hamilton
+remote_theme: zivong/jekyll-theme-hamilton
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
@@ -40,6 +38,15 @@ plugins:
 
 domain: sumskyi.github.io
 url: https://sumskyi.github.io
+
+# Google Analytics
+#
+# Stream Name: github blog
+# Stream URL: https://sumskyi.github.io
+# Stream ID 4363348113
+# Measurement Id G-M2Z3P6JWJM
+#
+google_analytics: G-M2Z3P6JWJM
 
 # my ?
 # lsi: false
