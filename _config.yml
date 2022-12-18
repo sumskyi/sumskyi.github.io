@@ -36,17 +36,17 @@ domain: sumskyi.github.io
 url: https://sumskyi.github.io
 
 # my ?
-lsi: false
-safe: true
+# lsi: false
+# safe: true
 # source: [your repo's top level directory]
-source: .
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
+# source: .
+# incremental: false
+# highlighter: rouge
+# gist:
+  # noscript: false
+# kramdown:
+  # math_engine: mathjax
+  # syntax_highlighter: rouge
 
 # Exclude from processing.
 # The following items will not be processed, by default.
