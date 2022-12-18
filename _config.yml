@@ -35,7 +35,7 @@ plugins:
 domain: sumskyi.github.io
 url: https://sumskyi.github.io
 
-# my
+# my ?
 lsi: false
 safe: true
 # source: [your repo's top level directory]
