@@ -28,8 +28,10 @@ twitter_username: sumskyi
 github_username:  sumskyi
 
 # Build settings
-theme: minima
-remote_theme: pages-themes/cayman@v0.2.0
+#
+# theme: minima
+# remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
