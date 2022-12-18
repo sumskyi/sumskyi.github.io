@@ -45,8 +45,12 @@ url: https://sumskyi.github.io
 # Stream URL: https://sumskyi.github.io
 # Stream ID 4363348113
 # Measurement Id G-M2Z3P6JWJM
-#
 google_analytics: G-M2Z3P6JWJM
+disqus: sumskyi
+skin: midnight
+avatar: https://avatars.githubusercontent.com/u/39335?v=4
+author: Vladyslav Sumskyi
+location: Lviv, Ukraine
 
 # my ?
 # lsi: false
