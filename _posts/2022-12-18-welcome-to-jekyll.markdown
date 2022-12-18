@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Do not sleep when electricity appears"
 date:   2022-12-18 09:26:54 +0200
 categories: jekyll update
 ---

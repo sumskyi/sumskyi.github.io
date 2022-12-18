@@ -28,7 +28,8 @@ twitter_username: sumskyi
 github_username:  sumskyi
 
 # Build settings
-theme: minima
+# theme: minima
+theme: architect
 plugins:
   - jekyll-feed
 
